@@ -1,5 +1,7 @@
 # CONSOLE UTILITY ar
 
+Compile [ for example GNU/Linux --> gcc -o main main.c ] and Run like next instructions.
+
 There are next options: 
 1. ( r ) - create an archive file with some files from current directory [./main r (archive file) (file_1) (file_2) ...];
 2. ( p ) - show all content from the files that are in an archive file [./main p (archive file)]; 
